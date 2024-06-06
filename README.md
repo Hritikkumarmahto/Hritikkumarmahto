@@ -1,4 +1,4 @@
-![MasterHead](https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg)
+<!-- ![MasterHead](https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg) -->
 <h1 align="center">Hi 👋, I'm Hritik</h1>
 <h3 align="center">A passionate software developer with expertise in frontend development and a budding interest in machine learning."</h3>
 <img align="right" alt="coding" width="400" src="https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg">
