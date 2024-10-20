@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a software developer<br>
+i am Hritik Kumar Mahto , i am a software developer<br>
 
 
 ## 🌐 Socials:
