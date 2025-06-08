@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi, I’m **Hritik Kumar Mahto** — a passionate computer science student pursuing a **B.Tech** degree. I am building a strong foundation in software development and constantly learning new technologies.
+Hi, I’m **Hritik Kumar Mahto** — a computer science graduate with a **B.E. degree**. I have built a solid foundation in software development and continuously strive to learn new technologies.
 
 ### 🚀 Skills & Technologies
 - Programming Languages: **Java (currently learning), Python, C++**
