@@ -1,5 +1,25 @@
-# 💫 About Me:
-i am Hritik Kumar Mahto <br>
+# 💫 About Me
+
+Hi, I’m **Hritik Kumar Mahto** — a passionate computer science student pursuing a **B.Tech** degree. I am building a strong foundation in software development and constantly learning new technologies.
+
+### 🚀 Skills & Technologies
+- Programming Languages: **Java (currently learning), Python, C++**
+- Web Development: **HTML, CSS, JavaScript, React.js, Bootstrap**
+- Backend: Basic knowledge of **Node.js**, API development
+- Tools & Platforms: **Git, VS Code, Android Studio**
+- Databases: **MySQL**
+- Concepts: Object-Oriented Programming, Data Structures & Algorithms
+
+### 🎯 Current Focus
+- Learning **Java** for Java development roles
+- Developing responsive and interactive web apps with **React.js**
+- Exploring backend development using **Node.js** and RESTful APIs
+
+I enjoy solving problems, working on projects, and growing as a software developer. Feel free to connect!
+
+---
+
+
 
 
 ## 🌐 Socials[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hritik-kumar-mahto) 
